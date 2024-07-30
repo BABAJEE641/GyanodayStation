@@ -12,7 +12,7 @@ body {
     color: #f9fbfc;
     text-decoration: double;
     text-align: center;
-    background-image: url('./17196462248255731568615031342261.jpg');
+     background-color: grey;
     background-size: cover;
     text-size-adjust: cover;
 }
@@ -23,7 +23,7 @@ header {
     color: #fff;
     padding: 10px 0;
     text-align: center;
-    background-image: url('./1719645728059324864546555446427.jpg');
+     background-color: red;
     background-size: cover;
     @keyframes slide-in {
         0%{
